@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Optionals'/>
+        <page name='OptionalBinding'/>
+        <page name='OptionalChaining'/>
+        <page name='Guard Let - Alternativa a if Let'/>
+        <page name='ErrorHandling'/>
+        <page name='TypeCasting'/>
+        <page name='TiposAnidados'/>
+        <page name='Extensiones'/>
+        <page name='Protocolos'/>
+        <page name='ProtocoloDelegado'/>
+        <page name='Generics'/>
+        <page name='AdvancedOperators'/>
+    </pages>
+</playground>
